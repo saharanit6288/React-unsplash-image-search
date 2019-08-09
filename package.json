@@ -2,6 +2,7 @@
   "name": "image-search",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "https://saharanit6288.github.io/react-image-search/",
   "dependencies": {
     "axios": "^0.19.0",
     "react": "^16.8.6",
